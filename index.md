@@ -20,5 +20,6 @@ Manage Receipts app - scan the receipts written in Burmese and organize them in 
 Keeping notes app - for those who like to write down instead of typing, but need to type it up for any reason, you can just scan your handwritten notes
 
 ### Contact
-Wint Hnin - wintyeehnin@gmail.com
-Htut Khine Win - htutkhwin@gmail.com
+* Wint Hnin - wintyeehnin@gmail.com
+
+* Htut Khine Win - htutkhwin@gmail.com
